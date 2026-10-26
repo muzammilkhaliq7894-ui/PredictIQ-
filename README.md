@@ -258,7 +258,7 @@ If an external asset service is unavailable, GitHub may display a fallback or no
 
 <div align="center">
 
-### **Muzammil Khaliq**
+### **Muzammil **
 **ALONZA Internship Task** · AI/ML & Predictive Maintenance
 
 <a href="mailto:muzammilkhaliq7894@gmail.com">
